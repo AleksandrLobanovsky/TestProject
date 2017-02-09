@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<mainConfig>
+    <basicURL>https://dev3.pdffiller.com/</basicURL>
+    <currentWebDriver>Chrome</currentWebDriver>
+    <chromePath></chromePath>>
+    <firefoxPath></firefoxPath>
+    <explorerPath></explorerPath>
+    <userName></userName>
+    <password></password>
+</mainConfig>
