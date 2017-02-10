@@ -3,9 +3,9 @@
 <mainConfig>
     <basicURL>https://dev3.pdffiller.com/</basicURL>
     <currentWebDriver>Chrome</currentWebDriver>
-    <chromePath></chromePath>>
+    <chromePath>C:\Users\alobanovskiy\Documents\Visual Studio 2015\chromedriver.exe</chromePath>>
     <firefoxPath></firefoxPath>
     <explorerPath></explorerPath>
-    <userName></userName>
-    <password></password>
+    <userName>lobanovsky.a.o@gmail.com</userName>
+    <password>Test1234</password>
 </mainConfig>
