@@ -11,6 +11,5 @@
       <root url="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8-sources.jar!/" />
     </SOURCES>
     <jarDirectory url="file://$APPLICATION_HOME_DIR$/plugins/testng/lib" recursive="false" />
-    <jarDirectory url="file://$APPLICATION_HOME_DIR$/plugins/testng/lib" recursive="false" />
   </library>
 </component>
